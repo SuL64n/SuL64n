@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZhMnJiOW5wOWRpZTAyM3pvYWQ5bGtqbWN5b2sxdnNzOG83eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+```<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZhMnJiOW5wOWRpZTAyM3pvYWQ5bGtqbWN5b2sxdnNzOG83eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />```
 
 ### `> whoami` 
 
