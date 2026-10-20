@@ -1,52 +1,131 @@
-# Hi there, I'm RiOS - <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ███████╗██╗   ██╗██╗      ██████╗ ██╗  ██╗███╗   ██╗              ║
+║   ██╔════╝██║   ██║██║     ██╔════╝ ██║  ██║████╗  ██║              ║
+║   ███████╗██║   ██║██║     ███████╗ ███████║██╔██╗ ██║              ║
+║   ╚════██║██║   ██║██║     ██╔═══██╗╚════██║██║╚██╗██║              ║
+║   ███████║╚██████╔╝███████╗╚██████╔╝     ██║██║ ╚████║              ║
+║   ╚══════╝ ╚═════╝ ╚══════╝ ╚═════╝      ╚═╝╚═╝  ╚═══╝              ║
+║                                                                      ║
+║                  [ FULL-STACK DEVELOPER ]                            ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Initializing+system...;%3E+Loading+modules...;%3E+Full-Stack+Developer+%7C+Code+Architect;%3E+Building+the+future%2C+one+commit+at+a+time;%3E+System+ready.+Access+granted." alt="Typing SVG" />
+
+</div>
 
 ---
 
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZhMnJiOW5wOWRpZTAyM3pvYWQ5bGtqbWN5b2sxdnNzOG83eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### Contact with me 📝
+### `> whoami` 
 
+```yaml
+name: SuL64n
+role: Full-Stack Developer
+location: Planet Earth
+status: "Always building something"
+```
 
-[<img align="left" alt="bilgehangecici.site" width="40px" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" />][twitter]
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
+```python
+class SuL64n:
+    def __init__(self):
+        self.languages  = ["C#", ".NET", "Python", "JavaScript",
+                           "TypeScript", "C", "C++", "Rust"]
+        self.tools      = ["WPF", "ASP.NET", "Node.js", "Git",
+                           "Docker", "VS Code", "Visual Studio"]
+        self.interests  = ["Reverse Engineering", "Audio Programming",
+                           "Systems Programming", "Full-Stack Dev"]
+        self.motto      = "sudo make it work"
 
-<br />
+    def greet(self):
+        print("Welcome to my terminal. Explore at your own risk.")
+```
+
+<br clear="right"/>
 
 ---
 
-### Languages and Tools 🛠 
+### `> cat /proc/skills` 
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![C#](https://img.shields.io/badge/-csharp-3776AB?style=flat-square&logo=csharp&logoColor=ffffff)
-![c++](https://img.shields.io/badge/-C++-0078D6?style=flat-square&logo=C++&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+<div align="center">
 
-<br/>
+#### ⚡ Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🛠️ Tools & Frameworks
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-<br/>
+### `> neofetch --stats`
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SuL64n&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuL64n&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-  
-<br/>
+<div align="center">
+  <a href="https://github.com/SuL64n">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuL64n&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuL64n&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&hide=css"/>
+  </a>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuL64n&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=555555" />
+</div>
 
+---
 
-[instagram]: https://www.instagram.com/hwpq
-[twitter]: https://twitter.com/pmuo
+### `> cat /var/log/activity.log`
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuL64n&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4130&hide_border=true" />
+</div>
+
+---
+
+### `> ls /social`
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hwpq)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pmuo)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   "Talk is cheap. Show me the code." — Linus T.      │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+<img src="https://komarev.com/ghpvc/?username=SuL64n&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer" />
+
+</div>
